@@ -74,6 +74,6 @@ public class HomeworkApp2 {
         }
     }
 }
-//конец
+//конец.
 
 
